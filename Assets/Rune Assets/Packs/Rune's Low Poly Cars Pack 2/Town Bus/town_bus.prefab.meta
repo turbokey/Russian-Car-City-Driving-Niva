@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: ee39db1e77aa3714ea5b5f2f50d85677
+labels:
+- Bus
+- PaZ
+- Town
+- Car
+- Minibus
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
